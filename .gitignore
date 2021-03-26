@@ -1,0 +1,10 @@
+venv
+test/*
+*.pyc
+.idea
+sample_data/result
+sample_data/results
+results
+env
+python-venv
+EVAL

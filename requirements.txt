@@ -1,0 +1,38 @@
+################################################################################
+#
+# Copyright (C) 2021, Roland Jung, Control of Networked Systems, University of Klagenfurt, Austria.
+#
+# All rights reserved.
+#
+# This software is licensed under the terms of the BSD-2-Clause-License with
+# no commercial use allowed, the full terms of which are made available in the
+# LICENSE file. No license in patents is granted.
+#
+# You can contact the author at <roland.jung@aau.at>
+#
+################################################################################
+# Requirements for VIO Evaluation Tools
+#
+
+matplotlib
+numpy
+scipy
+tqdm
+pandas
+argparse
+PyYAML
+spatialmath-python
+rospy
+rospkg
+pycryptodomex
+pycryptodome
+gnupg
+lz4
+cnspy-numpy-utils==0.1.1
+cnspy-script-utils==0.1.1
+cnspy-spatial-csv-formats==0.1.1
+cnspy-timestamp-association==0.1.1
+cnspy-csv2dataframe==0.1.1
+cnspy-rosbag2csv==0.1.1
+cnspy-trajectory==0.1.1
+cnspy-trajectory-evaluation==0.1.1
