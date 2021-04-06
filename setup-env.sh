@@ -33,7 +33,7 @@ python3 -m pip install virtualenv
 python3 -m venv env
 source env/bin/activate
 which python
-pip install -r ${DIR}/requirements.txt
+pip3 install -r ${DIR}/requirements.txt
 
 #pip install -i https://test.pypi.org/pypi/ --extra-index-url https://pypi.org/simple cnspy-trajectory==0.1.0
 #pip install -i https://test.pypi.org/pypi/ --extra-index-url https://pypi.org/simple cnspy-trajectory-evaluation==0.1.0
